@@ -2,11 +2,11 @@
 > **Bài tập lớn cuối kỳ môn Lập trình Java**
 ## 👥 Thông tin nhóm (Team Members)
 
-| 1 | Nguyễn Hữu Nguyên (Nhóm trưởng) | 25CNTT2 | controller, model, until, view | [GitHub](https://github.com/Huunguyen180107-arch) |
+| 1 | Nguyễn Hữu Nguyên (Nhóm trưởng) | 25CNTT2 | controller, view | [GitHub](https://github.com/Huunguyen180107-arch) |
 
 | 2 | Ma Tiến Đức | 25CNTT2 |  Documentation comment, Unit Test | [GitHub](https://github.com/TienDuc2701) |
 
-| 3 | Tăng Tấn Duy Phúc | 25CNTT... |  Edit, làm video |
+| 3 | Tăng Tấn Duy Phúc | 25CNTT... |  Edit, làm video, model, utils  |
 
 ## 📝 Giới thiệu dự án (Description)
 Dự án game 2D Tetrix là một trò chơi xếp hình được phát triển bằng Java, mô phỏng lối chơi kinh điển với các khối rơi và xếp chồng để ghi điểm. Người chơi cần sắp xếp các khối hợp lý để tạo thành hàng hoàn chỉnh và tránh để màn hình bị đầy.
