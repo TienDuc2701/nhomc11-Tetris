@@ -2,9 +2,9 @@
 > **Bài tập lớn cuối kỳ môn Lập trình Java**
 ## 👥 Thông tin nhóm (Team Members)
 
-| 1 | Nguyễn Hữu Nguyên (Nhóm trưởng) | 25CNTT2 | controller, model, until, view | [GitHub]((https://github.com/Huunguyen180107-arch)) |
+| 1 | Nguyễn Hữu Nguyên (Nhóm trưởng) | 25CNTT2 | controller, model, until, view | [GitHub](https://github.com/Huunguyen180107-arch) |
 
-| 2 | Ma Tiến Đức | 25CNTT2 |  Documentation comment, Unit Test | [GitHub](link) |
+| 2 | Ma Tiến Đức | 25CNTT2 |  Documentation comment, Unit Test | [GitHub](https://github.com/TienDuc2701) |
 
 | 3 | Tăng Tấn Duy Phúc | 25CNTT... |  Edit, làm video |
 
