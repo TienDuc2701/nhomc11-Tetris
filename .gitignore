@@ -1,1 +1,16 @@
+#(Compiled class files)
+*.class
 
+#(nơi chứa file thực thi của Java)
+bin/
+
+.vscode/
+
+*.log
+
+# (Tùy chọn) Nếu bạn dùng IntelliJ hoặc Eclipse sau này
+.idea/
+*.iml
+.settings/
+.project
+.classpath
