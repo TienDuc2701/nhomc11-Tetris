@@ -29,11 +29,10 @@ Mã nguồn được tổ chức chặt chẽ theo mô hình **MVC (Model - View
    ┗ 📜 Main.java   # File Entry-point để khởi động ứng dụng
 
 ## 🚀 Hướng dẫn cài đặt và chạy (Installation)
-1. **Clone repository này về máy:**
-   `https://github.com/TienDuc2701/nhomc11-Tetris.git`
-2. **Chạy ứng dụng:**
-   * Mở project bằng IDE.
-   * Chạy file `Main.java` để bắt đầu.
+1.	Chuẩn bị: Cài đặt JDK 17 trở lên và một IDE (IntelliJ, Eclipse hoặc NetBeans...).
+2.	Import: Import toàn bộ thư mục src vào project Java.
+3.	Chạy: Tìm file chứa hàm main (thông thường được gọi từ GameFrame) để khởi động trò chơi.
+
 
 ## 📸 Ảnh chụp màn hình (Screenshots)
 <img width="585" height="658" alt="image" src="https://github.com/user-attachments/assets/58cebe36-2d85-4fd3-b8ff-8c48deacbdea" />
