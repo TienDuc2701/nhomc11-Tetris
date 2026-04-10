@@ -30,7 +30,7 @@ Mã nguồn được tổ chức chặt chẽ theo mô hình **MVC (Model - View
 
 ## 🚀 Hướng dẫn cài đặt và chạy (Installation)
 1. **Clone repository này về máy:**
-   `git clone https://github.com/username/ten-repo-cua-nhom.git`
+   `https://github.com/TienDuc2701/nhomc11-Tetris.git`
 2. **Chạy ứng dụng:**
    * Mở project bằng IDE.
    * Chạy file `Main.java` để bắt đầu.
